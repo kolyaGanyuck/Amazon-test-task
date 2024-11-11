@@ -35,4 +35,4 @@ build/
 mvnw.cmd
 mvnw
 .gitattributes
-.yaml
+src/main/resources
